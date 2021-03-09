@@ -1,3 +1,12 @@
+# ChangeLog
+
+```yarn add -D gh-pages```
+then scripts added tp pakage.json
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+"homepage": "https://jasminatay.github.io/example-app"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
