@@ -4,7 +4,7 @@
 then scripts added tp pakage.json
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
-"homepage": "https://jasminatay.github.io/example-app"
+"homepage": "https://jasminatay.github.io/season-display/"
 
 
 # Getting Started with Create React App
